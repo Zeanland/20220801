@@ -13,11 +13,11 @@ on:
       start:
         description: 'Start Date in YYYY-MM-DD format'
         required: true
-        default: '2022-09-19'
+        default: '2022-09-15'
       end:
         description: 'End Date in YYYY-MM-DD format'
         required: true
-        default: '2022-09-21'
+        default: '2022-09-25'
 
 jobs:
   build:
